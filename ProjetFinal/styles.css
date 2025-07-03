@@ -1,0 +1,21 @@
+#xray-container {
+  position: relative;
+  width: 600px; /* adapte selon ton image */
+  height: auto;
+  margin: auto;
+}
+
+.flesh,
+.bones {
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.bones {
+  pointer-events: none;
+  clip-path: circle(0% at 0 0); /* cachée au début */
+  transition: clip-path 0.1s ease-out;
+}

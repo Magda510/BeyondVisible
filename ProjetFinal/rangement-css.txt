@@ -1,0 +1,43 @@
+accueil css/*
+  === STRUCTURE ===
+  GLOBAL          -> ligne 17-29
+  BODY            -> ligne 31-47
+  HEADER-RESPONSIVE -> ligne 49-61
+  HEADER          -> ligne 63-166
+  ELEMENTS PRINCIPAUX   -> ligne 168-182
+  CARTE HOLOGRAPHIC        -> ligne 184-231
+  RESPONSIVE CARTE HOLOGRAPHIC  -> ligne 233-257
+  CARTES EXPLICATIFS DES ONDES -> ligne 259-350
+  SPECTRE VISIBLE ET DE LA MASCOTTE -> ligne 352-392
+  BLOC "AU BOUT DU SPECTRE" -> ligne 394-538
+  FOOTER                   -> ligne 540-575
+  RESPONSIVE             -> ligne 577-692 
+
+
+
+
+  lesondes css/*
+ === STRUCTURE ===
+  GLOBAL          -> ligne 17-27
+  BODY            -> ligne 29-43
+  HEADER          -> ligne 45-160
+  SECTION ONDES RADIO   -> ligne 162-271
+  SECTION MICRO-ONDES      -> ligne 273-373
+  SECTION INFRAROUGE   -> ligne 375-475
+  SECTION ULTRAVIOLET -> ligne 477-577
+  SECTION RAYON-X -> ligne 579-681
+  SECTION GAMMA -> ligne 683-783
+  FOOTER         -> ligne 785-820
+  RESPONSIVE     -> ligne 822-1002 */
+
+
+
+
+  funfacts.css/*
+  === STRUCTURE ===
+  GLOBAL          -> ligne 10-22
+  BODY            -> ligne 24-41
+  HEADER          -> ligne 43-158
+  ACCORDEONS   -> ligne 160-275
+  FOOTER         -> ligne 277-312
+  RESPONSIVE     -> ligne 314-402 */

@@ -1,0 +1,47 @@
+==================== CRÉDITS ====================
+
+Toutes les illustrations, éléments visuels (y compris la mascotte Nucly) et animations CSS ont été entièrement réalisés par moi-même, à l'exception des éléments suivants :
+
+--- POLICES / TYPOGRAPHIES ---
+• Titre "BEYOND VISIBLE" : Super Cartoon Font
+  → https://www.fontspace.com/super-cartoon-font-f137730
+
+• Titres <h2> : Audiowide (Google Fonts)
+  → https://www.w3schools.com/css/tryit.asp?filename=trycss_font-google_audiowide
+
+• Paragraphes : Google Fonts (Roboto)
+  → https://fonts.google.com/selection/embed
+
+--- ICONES UTILISÉS ---
+• Icône "Retour à la page d'accueil" :
+  → https://www.veryicon.com/icons/miscellaneous/new-version-of-star-selected-icon/back-to-home-page-1.html
+
+• Icônes des réseaux sociaux : fournis par les plateformes respectives.
+
+--- SOURCES SCIENTIFIQUES ---
+• CEA – Les ondes électromagnétiques
+  → https://www.cea.fr/comprendre/Pages/physique-chimie/essentiel-sur-ondes-electromagnetiques-communication.aspx
+
+• CoolKidFacts – Electromagnetic Waves
+  → https://www.coolkidfacts.com/electromagnetic-waves/
+
+• NASA – Electromagnetic Spectrum
+  → https://science.nasa.gov/ems/01_intro/
+
+• BBC Bitesize – Electromagnetic Spectrum
+  → https://www.bbc.co.uk/bitesize/articles/zq26nk7
+
+• Wikipedia – Electromagnetic spectrum
+  → https://en.wikipedia.org/wiki/Electromagnetic_spectrum
+
+--- AUTEUR & DESIGN ---
+Site web conçu, codé et illustré par [Ton prénom + nom ou pseudo], dans le cadre d’un atelier d’initiation HTML & CSS (juillet 2025).
+
+
+--- NOTE SUR LA RÉDACTION DU CONTENU ---
+
+Certains textes présents sur ce site (notamment des descriptions scientifiques ou des paragraphes explicatifs) ont été partiellement rédigés à l’aide d’un outil d’intelligence artificielle (ChatGPT, par OpenAI). 
+
+L’objectif était d’optimiser le temps de rédaction tout en maintenant une clarté pédagogique. Tous les contenus générés ont été vérifiés, reformulés ou complétés par moi-même pour garantir leur cohérence et leur accessibilité.
+
+Les illustrations, le code, la structure du site ainsi que l’ensemble du design ont été réalisés de manière autonome.
